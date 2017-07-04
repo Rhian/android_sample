@@ -1,0 +1,5 @@
+[caps]
+platformName = "Android"
+appActivity = ".loading.LandingPage"
+deviceName = "Nexus43"
+fullreset = "true"
